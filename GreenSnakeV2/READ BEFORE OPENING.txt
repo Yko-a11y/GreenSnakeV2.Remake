@@ -1,0 +1,27 @@
+Welcome to GreenSnake
+Thank you for downloading GreenSnake! This application is designed to enhance your system's performance by optimizing various settings. Please read this document carefully before proceeding to use the application.
+
+Important Information
+Create a Restore Point:
+Before running GreenSnake, it is CRITICAL that you create a restore point on your computer. This ensures that you can easily revert any changes if something doesn't work as expected. If you’re unsure how to create a restore point, please refer to this guide:
+
+Windows: How to Create a Restore Point
+Disclaimer:
+By using this application, you acknowledge that you are doing so at your own risk. I am NOT responsible for any damages, errors, or malfunctions caused to your computer as a result of using GreenSnake.
+
+Supported Systems:
+GreenSnake is designed for [insert supported operating systems here, e.g., Windows 10 and later]. Using it on unsupported systems may lead to unexpected results.
+
+Usage Instructions:
+
+Run the application as an administrator.
+Follow on-screen instructions carefully.
+Avoid interrupting the process once it has started.
+Final Warning
+While GreenSnake has been tested thoroughly, every computer system is unique. Unexpected issues may arise, which is why having a restore point is so important.
+
+By opening and running this application, you agree to the terms outlined above.
+
+Thank you for trusting GreenSnake to boost your performance!
+
+-(Note) All Data Will Be In GreenSnake Folider.(the One That You Downloaded.) All Data Will Load After You Run The GreenSnakeV2.Exe And Verify You're Files.
